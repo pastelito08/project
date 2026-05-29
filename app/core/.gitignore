@@ -1,0 +1,22 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# Database
+*.db
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# Alembic (keep structure, ignore cache)
+alembic/versions/__pycache__/
